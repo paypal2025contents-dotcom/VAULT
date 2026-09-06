@@ -7,7 +7,7 @@ const CONFIG = {
     // Telegram Links
     telegramURL: 'https://t.me/vault2k26',
     samplesURL: 'https://t.me/samplesvault',
-    proofsURL: 'https://t.me/vault2k26proofs',
+    proofsURL: 'https://t.me/vault2k26/a/1',
 
     // Site Info
     siteTitle: 'VAULT 2K26',
